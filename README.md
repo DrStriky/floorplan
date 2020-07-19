@@ -40,4 +40,6 @@ As can be seen with the plot option, this enables us to get the floor plan as ge
 * handling of non rectangular floor plan files
 * handling of open room shapes
 * more efficient finding of next elements in room mapping
+* unit test
+* interpretation test; create more test cases
 * ...
